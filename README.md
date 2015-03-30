@@ -11,6 +11,7 @@ Example code for OPTICAL FINGERPRINT SENSOR
 | GREEN wire    | Digital 2       |
 | WHITE wire    | Digital 3       |
 
+Originally from adafruit library https://github.com/adafruit/Adafruit-Fingerprint-Sensor-Library
 This code is tested by iseerobot.com
 
 -QC iseerobot -
